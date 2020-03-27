@@ -1,0 +1,17 @@
+NodeJs
+Testes: 
+    - Heroku (https://www.heroku.com/)
+Produção: 
+    - Digital Ocean (https://www.digitalocean.com/)
+Crescimento da aplicação: 
+    - AWS
+    - GoggleCloudPlatform
+    - Microsoft Azure
+
+ReactJs
+Testes:
+    - netfly: https://www.netlify.com/
+Produção:
+    -
+Crescimento da aplicação:
+    -
